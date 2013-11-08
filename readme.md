@@ -1,5 +1,8 @@
-TinyMCE - Spellchecker for PHP - (B42 Digital Fork)
-=================================================
+TinyMCE - Spellchecker for PHP
+==============================
+
+B42 Digital Fork
+----------------
 
 This is the PHP backend for the TinyMCE 4.0 spellchecker plugin. It enables you to use different PHP implementations such as Enchant, Google or PSpell.
 Currently only Pspell has been tested by B42 Digital and it requires that Pspell is enabled in PHP.
